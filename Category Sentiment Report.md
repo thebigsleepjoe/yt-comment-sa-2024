@@ -1,6 +1,6 @@
 ## Report Overview
 
-This report is a meta analysis of the measured sentiment of various categories of YouTube comment sections.
+This report is an analysis of the measured sentiment of various categories of YouTube comment sections.
 
 Categories are sorted in order of the most unique categories to least.
 
