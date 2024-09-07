@@ -120,7 +120,7 @@ The categories measured are described as such:
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Comp Shooters_bar.png)
+![Sentiment graph](./graphs/Comp%20Shooters_bar.png)
 
 ## Fitness
 
@@ -440,7 +440,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Comedy Creators_bar.png)
+![Sentiment graph](./graphs/Comedy%20Creators_bar.png)
 
 ## Art
 
@@ -682,7 +682,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Male VTubers_bar.png)
+![Sentiment graph](./graphs/Male%20VTubers_bar.png)
 
 ## Animals
 
@@ -846,7 +846,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Female ASMR_bar.png)
+![Sentiment graph](./graphs/Female%20ASMR_bar.png)
 
 ## League of Legends
 
@@ -926,7 +926,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/League of Legends_bar.png)
+![Sentiment graph](./graphs/League%20of%20Legends_bar.png)
 
 ## Male ASMR
 
@@ -1008,7 +1008,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Male ASMR_bar.png)
+![Sentiment graph](./graphs/Male%20ASMR_bar.png)
 
 ## Commentary
 
@@ -1170,7 +1170,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Classical Music_bar.png)
+![Sentiment graph](./graphs/Classical%20Music_bar.png)
 
 ## Shorts
 
@@ -1498,7 +1498,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Country Music_bar.png)
+![Sentiment graph](./graphs/Country%20Music_bar.png)
 
 ## Baseball
 
@@ -1662,7 +1662,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Popular Music_bar.png)
+![Sentiment graph](./graphs/Popular%20Music_bar.png)
 
 ## Football
 
@@ -1822,7 +1822,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Video Essay_bar.png)
+![Sentiment graph](./graphs/Video%20Essay_bar.png)
 
 ## Rap Music
 
@@ -1904,7 +1904,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Rap Music_bar.png)
+![Sentiment graph](./graphs/Rap%20Music_bar.png)
 
 ## Celeb Apologies
 
@@ -1986,7 +1986,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Celeb Apologies_bar.png)
+![Sentiment graph](./graphs/Celeb%20Apologies_bar.png)
 
 ## History
 
@@ -2224,7 +2224,7 @@ Note: The graph below starts later on the X-axis to better show off the data. Th
 
 Note: The graph below starts later on the X-axis to better show off the data. The vast majority of responses (60-80%) are given very low tox scores.
 
-![Sentiment graph](./graphs/Female VTubers_bar.png)
+![Sentiment graph](./graphs/Female%20VTubers_bar.png)
 
 ## Cats
 
